@@ -6,7 +6,6 @@
 
 ## O aplikaciji
 
-A.C.Milan Application je aplikacija koja je napravljena zbog navijačkih razloga, te je korisna svim ljubiteljima nogometa posebno navijačima A.C. Milan-a. 
 Movies Application je aplikacija koja prikazuje najnovije popularne filmove.
 
 ## Korištene tehnologije
